@@ -59,7 +59,7 @@ def create_entry():
 
     except:
 
-        resp = {'status': 'nok'}
+        resp = {'token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdGF0dXMiOiJub2sifQ.o7z-Pgy-4psW8YwXMdwVDK9qT_O37Jmywo5Zts48wkA'}
 
     return resp
 
