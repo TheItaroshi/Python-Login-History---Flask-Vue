@@ -4,7 +4,7 @@ Webapp with users log in history
 
 ## Frameworks
 
-App lication is created using Flask + Vue
+Application is created using Flask + Vue
 
 ### Users data:
 user_1 : username: pjanas password: asdqwe123
