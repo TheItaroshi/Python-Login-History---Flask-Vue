@@ -13,7 +13,7 @@
     "vue-jwt-decode": "^0.1.0",
     "vue-router": "^3.3.4",
     "vuelidate": "^0.7.5",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
