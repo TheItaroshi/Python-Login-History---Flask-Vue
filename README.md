@@ -1,14 +1,14 @@
-## Description
+# Login History — Flask & Vue
 
-Webapp with users log in history
+An earlier personal web application for viewing user login history, built with **Flask** and **Vue**.
 
-## Frameworks
+## Technologies
 
-Application is created using Flask + Vue
+- Python / Flask
+- Vue
 
-### Users data:
-user_1 : username: pjanas password: asdqwe123
+## Status
 
-user_2 : username: purban password: qweasd123
+This is an older personal project, retained as an example of my web development work. The setup instructions have not been recently verified.
 
-user_3 : username: dgozdzinski password: 123qweasd
+> Never use example credentials from documentation as real account passwords.
